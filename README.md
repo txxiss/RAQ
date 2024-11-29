@@ -1,3 +1,7 @@
+Notas da versão 2.1.2:<br/>
+Removido a opção de digitar o local do arquivo na caixa de seleção<br/>
+Adicionado "Como usar?" dentro da interface do app<br/>
+<br/>
 Como usar o aplicativo:<br/>
 <br/>
 Baixe o aquivo RAQ v2.1.2.zip<br/>
